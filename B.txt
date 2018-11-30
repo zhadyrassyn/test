@@ -1,3 +1,4 @@
 B.txt
 Hello
 HelloA
+HelloB
